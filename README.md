@@ -7,9 +7,14 @@
 > Aug 2024 - Present | Pune, India
 
 **Infrastructure IoT**
+Mentor: Subrato Pattanaik, Sunand Sandurkar, Karthikeyan Vedi
 
 **Infrastructure Cloud: BIC Core Capabilities**
 - collaborated closely with cross-teams for integrating micro-frontends in central dashboard
+- collaborated closely with cross-teams for integrating micro-frontends in central dashboard
+- integrated LD Server-SDK utilities to handle user & environment-specific feature flag behavior
+- implemented Scenes permissions and conditional access workflows using LaunchDarkly
+Mentor: Supriya Bhosale
 
 **Bentley Open Applications: Structural Group**
 - @bentley/nlp-sql-agent: created pluggable node module for communicating with sqlite files in Natural Language using LLM
@@ -17,13 +22,14 @@
 - devised algorithm for creating smooth Plate Stress patterns based on stress values at plate corners
 - researched on merging logic for 3d-models, similar to 3-way merge method
 - redesigned buried synchronizer UI, turned an obscure sync flow to future roadmap
+Mentor: Waqar Ahmed, Dhiman Banerjee, Abhisekh Sarkar
 
 **iTwin Services: Validation Platform**
 - optimized API endpoints, reduced time complexity by using batch queries
 - streamlined API requests across all projects by building a custom node package and utilizing the same wrapper across projects
 - enabled telemetry data access on APIs using Azure App Insights
 - managed control deployment and rollout of API versions using Octopus
- 
+ Mentor: Prashanth Anantharam, Debasis Mondal, Ramanujam Raman
 
 ---
 
