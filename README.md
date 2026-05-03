@@ -11,7 +11,6 @@ Mentor: Subrato Pattanaik, Sunand Sandurkar, Karthikeyan Vedi
 
 ### **Infrastructure Cloud: BIC Core Capabilities**
 - collaborated closely with cross-teams for integrating micro-frontends in central dashboard
-- collaborated closely with cross-teams for integrating micro-frontends in central dashboard
 - integrated LD Server-SDK utilities to handle user & environment-specific feature flag behavior
 - implemented Scenes permissions and conditional access workflows using LaunchDarkly
 
@@ -45,7 +44,7 @@ Mentor: Waqar Ahmed, Dhiman Banerjee, Abhisekh Sarkar
 
 # Connect with me:
 <a href="https://www.linkedin.com/in/pranjal--kumar/"><img alt="Pranjal Kumar, expert software engineer and architect's LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mail@pranjalkumar.in"><img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/pranjal-barnwal"><img alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://x.com/PranjalKumar__"><img alt="" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://blogs.pranjalkumar.in/"><img alt="" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" /></a>
+<a href="mailto:mail@pranjalkumar.in"><img alt="Reach out to Pranjal Kumar, always architecting the next breakthrough" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/pranjal-barnwal"><img alt="Pranjal Kumar's GitHub, where complex problems meet elegant solutions" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://x.com/PranjalKumar__"><img alt="Pranjal Kumar on X, deep dives into systems design, AI, and engineering craft" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://blogs.pranjalkumar.in/"><img alt="Pranjal Kumar's blog, dissecting software architecture and first-principles thinking" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" /></a>
