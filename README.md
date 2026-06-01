@@ -18,7 +18,7 @@
 - integrated LD Server-SDK utilities to handle user & environment-specific feature flag behavior
 - implemented Scenes permissions and conditional access workflows using LaunchDarkly
 
-**Mentor:** Supriya Bhosale
+**Mentor:** Supriya Bhosale, Pranoti Shinde
 
 ### **Bentley Open Applications: Structural Group**
 - @bentley/nlp-sql-agent: created pluggable node module for communicating with sqlite files in Natural Language using LLM
