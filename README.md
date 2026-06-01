@@ -10,6 +10,7 @@
 - reverse-engineered OS file-explorer interaction semantics and implemented a deterministic anchor-based selection model (range, toggle, reset); resolved longstanding UX inconsistencies that were generating recurring bug reports, and unified behavior across multiple entity contexts
 - refactored group-constant and project-level entity management to enforce a single consistent contract, reducing behavioral divergence across Explorer, Calculation, and Group workflows
 - designed context-retention logic ensuring entity state survives Explorer flow transitions; handled cold-start (new/blank project) edge cases that previously caused silent data loss
+
 **Mentor:** Subrato Pattanaik, Sunand Sandurkar, Karthikeyan Vedi
 
 ### **Infrastructure Cloud: BIC Core Capabilities**
@@ -48,7 +49,7 @@
 # Other contributions:
 - **Proposed and presented an event-driven architecture to replace hourly cron polling** at an internal Architecture Meetup; identified staleness, bursty load, and hidden coupling as root causes; designed an incremental migration path using change-event publishing and per-service materialized views (Kafka/event bus), enabling real-time dashboard updates.
 
-- **Runner-up, company-wide Architecture Kata** ([Road Warrior](https://github.com/pranjal-barnwal/road-warrior)) — second-highest contributor; owned the system design for a distributed trip aggregation platform: microservices with event-driven ingestion, CQRS, saga orchestration, BFF for platform-specific clients, and WebSocket/SSE push; optimized for elastic scale, sub-second freshness, and 99.9% availability on Azure.
+- **Runner-up, company-wide Architecture Kata** ([Road Warrior](https://github.com/pranjal-barnwal/road-warrior)): second-highest contributor; owned the system design for a distributed trip aggregation platform: microservices with event-driven ingestion, CQRS, saga orchestration, BFF for platform-specific clients, and WebSocket/SSE push; optimized for elastic scale, sub-second freshness, and 99.9% availability on Azure.
 
 # Connect with me:
 <a href="https://www.linkedin.com/in/pranjal--kumar/"><img alt="Pranjal Kumar, expert software engineer and architect's LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
