@@ -3,8 +3,16 @@
 </a>
 
 # Bentley Systems
+## Software Engineer I
+> Aug 2026 - Present | Pune, India
+ 
+**iModel Lifecycle Management**
+- worked on the backend architecture of iModel Lifecycle Management, focusing on scalable synchronization services, distributed workflows, and Temporal-based orchestration
+
+**Mentor:** Bibek Singh, Souvik Bera, Sneha Nandi
+
 ## Associate Software Engineer
-> Aug 2024 - Present | Pune, India
+> Aug 2024 - Jul 2026 | Pune, India
 
 ### **iTwin Platform: Infrastructure IoT**
 - reverse-engineered OS file-explorer interaction semantics and implemented a deterministic anchor-based selection model (range, toggle, reset); resolved longstanding UX inconsistencies that were generating recurring bug reports, and unified behavior across multiple entity contexts
@@ -35,7 +43,7 @@
 - enabled telemetry data access on APIs using Azure App Insights
 - managed control deployment and rollout of API versions using Octopus
 
-**Mentor:** Prashanth Anantharam, Debasis Mondal, Ramanujam Raman
+**Mentor:** Prashanth Anantharam, Debasis Mondal, Soma Chakraborty
 
 ---
 
@@ -45,6 +53,8 @@
 **iTwin Services: Validation Platform Team**
 - built POC app using electron for visualizing clashes/overriding on 3d-models/imodels
 - developed automated benchmarking API for Clash Detection, reducing analysis time on 3d-models by 85% by creating automated workflow
+
+**Mentor:** Prashanth Anantharam, Debasis Mondal, Ramanujam Raman, Soumalya BasuRoy
 
 # Other contributions:
 - **Proposed and presented an event-driven architecture to replace hourly cron polling** at an internal Architecture Meetup; identified staleness, bursty load, and hidden coupling as root causes; designed an incremental migration path using change-event publishing and per-service materialized views (Kafka/event bus), enabling real-time dashboard updates.
