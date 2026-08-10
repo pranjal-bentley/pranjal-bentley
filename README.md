@@ -11,6 +11,8 @@
 
 **Mentor:** Bibek Singh, Souvik Bera, Sneha Nandi
 
+---
+
 ## Associate Software Engineer
 > Aug 2024 - Jul 2026 | Pune, India
 
