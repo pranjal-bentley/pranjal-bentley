@@ -7,7 +7,7 @@
 > Aug 2026 - Present | Pune, India
  
 **iModel Lifecycle Management**
-- worked on the backend architecture of iModel Lifecycle Management, focusing on scalable synchronization services, distributed workflows, and Temporal-based orchestration
+- worked on the backend orchestration architecture of iModel Lifecycle Management, focusing on scalable synchronization services, distributed workflows, and Temporal-based orchestration
 
 **Mentor:** Bibek Singh, Souvik Bera, Sneha Nandi
 
@@ -69,3 +69,5 @@
 <a href="https://github.com/pranjal-barnwal"><img alt="Pranjal Kumar's GitHub, where complex problems meet elegant solutions" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://x.com/PranjalKumar__"><img alt="Pranjal Kumar on X, deep dives into systems design, AI, and engineering craft" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://blogs.pranjalkumar.in/"><img alt="Pranjal Kumar's blog, dissecting software architecture and first-principles thinking" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" /></a>
+
+<img height="424" alt="Schrödinger's cat with high IQ" src="https://github.com/user-attachments/assets/07ab1264-f429-4f7b-86d4-d13b760d1a24" />
